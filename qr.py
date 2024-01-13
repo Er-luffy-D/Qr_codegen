@@ -3,7 +3,7 @@ from PyQt5.QtGui import QPixmap
 from PyQt5 import QtCore, QtGui, QtWidgets
 import qrcode
 
-# COMMENTS LIKHNE HAE BAAD MAE
+
 
 class Ui_MainWindow(object):
 
